@@ -1,4 +1,4 @@
-IndabaXEgypt 2019
+**IndabaXEgypt 2019**
 
 A Deep Learning Indaba𝕏 is a locally-organised meeting that helps spread knowledge and build capacity in machine learning.
 
