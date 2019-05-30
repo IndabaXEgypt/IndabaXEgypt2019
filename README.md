@@ -6,4 +6,6 @@ In 2019, the IndabaX reached Egypt! Completing a continuous stream of events cro
 
 In May 2019, we hosted a two day event with talks, tutorials and a poster competition where the community discussed and learnt about different fields in machine learning, came together and enjoyed a rewarding experience.
 
+All material presented during IndabaXEgypt can be found in this repo!
+
 Check out some pictures from the event on our Facebook page @indabaxegypt
